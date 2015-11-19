@@ -1,0 +1,17 @@
+{
+  "name": "teaching-heigvd-tweb-2015-charts-tmp",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "AngularJS": "angular-latest#~1.4.7",
+    "bootstrap": "~3.3.5",
+    "Chart.js": "Chart-js#~1.0.2",
+    "angular-chart.js": "~0.8.5",
+    "angular-socket-io": "~0.7.0",
+    "angular-ui-router": "~0.2.15"
+  }
+}
